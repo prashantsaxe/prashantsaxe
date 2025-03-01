@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/prashan96693831" target="blank"><img src="https://img.shields.io/twitter/follow/prashan96693831?logo=twitter&style=for-the-badge" alt="prashan96693831" /></a> </p>
 
-https://raw.githubusercontent.com/sivakumarvunnam/sivakumarvunnam/main/images/coder.gif
+![Coder GIF](https://raw.githubusercontent.com/sivakumarvunnam/sivakumarvunnam/main/images/coder.gif)
+
 
 - 🌱 I’m currently learning **Django,flask**
 
