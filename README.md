@@ -44,13 +44,13 @@
   <a href="https://auth.geeksforgeeks.org/user/prashantpl1z" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="40" width="50" />
   </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
+  <a href="https://prashantsaxena-pearl.vercel.app/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Portfolio" height="40" width="50" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-website.com" target="_blank">
+  <a href="https://prashantsaxena-pearl.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-1f425f.svg?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
 </p>
