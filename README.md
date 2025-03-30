@@ -24,10 +24,7 @@
 - 📫 Reach me at: **prashantxhunter@gmail.com**  
 - 📄 My Resume: [View Here](https://drive.google.com/file/d/1R15aRu_TrAenwQ0wh1rGf60Mzi1RgqOD/view?usp=drivesdk)
 
-## ⚡ Fun Facts  
 
-- **I hold a PhD in overthinking! 🎓😂**  
-- **My code works… after a few cosmic interventions 😆**  
 
 ## 🔗 Connect with Me  
 
