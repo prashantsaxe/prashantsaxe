@@ -17,7 +17,7 @@
 
 ## 🚀 About Me  
 
-- 🌱 I’m currently mastering **Django, Flask and Machine Learning**  
+- 🌱 I’m currently mastering **Django, Spring Boot and Machine Learning**  
 - 👯 I’m open to collab on **[NewzSage](https://github.com/prashantsaxe/newzSage)**  
 - 🤝 Seeking help with **[ChatChamber](https://github.com/prashantsaxe/chatChamber)**  
 - 💬 Chat with me about **React, Node.js, PostgreSQL, Next.js, AI & ML**  
