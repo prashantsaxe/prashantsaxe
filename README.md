@@ -21,7 +21,7 @@
 - 👯 I’m open to collab on **[NewzSage](https://github.com/prashantsaxe/newzSage)**  
 - 🤝 Seeking help with **[ChatChamber](https://github.com/prashantsaxe/chatChamber)**  
 - 💬 Chat with me about **React, Node.js, PostgreSQL, Next.js, AI & ML**  
-- 📫 Reach me at: **prashantxhunter@gmail.com**  
+- 📫 Reach me at: **prashantsaxena.work@gmail.com**  
 - 📄 My Resume: [View Here](https://drive.google.com/file/d/1R15aRu_TrAenwQ0wh1rGf60Mzi1RgqOD/view?usp=drivesdk)
 
 
