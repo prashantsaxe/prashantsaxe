@@ -22,7 +22,7 @@
 - 🤝 Seeking help with **[ChatChamber](https://github.com/prashantsaxe/chatChamber)**  
 - 💬 Chat with me about **React, Node.js, PostgreSQL, Next.js, AI & ML**  
 - 📫 Reach me at: **prashantsaxena.work@gmail.com**  
-- 📄 My Resume: [View Here](https://drive.google.com/file/d/1R15aRu_TrAenwQ0wh1rGf60Mzi1RgqOD/view?usp=drivesdk)
+- 📄 My Resume: [View Here](https://drive.google.com/file/d/1A-hStD1Qo507zKC0nvHdcabMfsAsP5_2/view?usp=drivesdk)
 
 
 
